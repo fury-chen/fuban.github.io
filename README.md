@@ -1,2 +1,2 @@
-# leecode.github.io
-This is a leecode repo
+# fuban.github.io
+This is a leecode repo, use to record my leecode blog
